@@ -1,2 +1,5 @@
 # test-repo
-This is a test repo created for data science lecture.
+## Data Science Specialization
+* User R
+* Nice Course
+* Goes from raw data to data products
